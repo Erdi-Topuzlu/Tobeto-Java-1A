@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/intro/pom.xml" />
         <option value="$PROJECT_DIR$/oop/pom.xml" />
+        <option value="$PROJECT_DIR$/oopWithNLayeredApp/pom.xml" />
       </list>
     </option>
   </component>
