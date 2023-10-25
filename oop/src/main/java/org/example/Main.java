@@ -47,17 +47,17 @@ public class Main {
 
         IndividualCustomer individualCustomer = new IndividualCustomer();
         individualCustomer.setId(001);
-        individualCustomer.setCustomerNumber(123456);
-        individualCustomer.setPhone(05305556677);
+        individualCustomer.setCustomerNumber("123456");
+        individualCustomer.setPhone("05305556677");
         individualCustomer.setFirstName("Erdi");
         individualCustomer.setLastName("Topuzlu");
 
         CorparateCustomer corparateCustomer = new CorparateCustomer();
         corparateCustomer.setId(000001);
-        corparateCustomer.setTaxNumber(987654);
-        corparateCustomer.setPhone(02123334455);
+        corparateCustomer.setTaxNumber("987654");
+        corparateCustomer.setPhone("02123334455");
         corparateCustomer.setCompany("Tobeto Java-1A");
-        corparateCustomer.setTaxNumber(0123456789);
+        corparateCustomer.setTaxNumber("0123456789");
 
         Customer[] customers = {individualCustomer, corparateCustomer};
 
