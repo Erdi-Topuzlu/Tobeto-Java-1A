@@ -9,11 +9,13 @@
         <option value="$PROJECT_DIR$/oopWithNLayeredApp/pom.xml" />
         <option value="$PROJECT_DIR$/cars.homework/pom.xml" />
         <option value="$PROJECT_DIR$/cars/pom.xml" />
+        <option value="$PROJECT_DIR$/vehicles/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/cars.homework/pom.xml" />
+        <option value="$PROJECT_DIR$/cars/pom.xml" />
       </set>
     </option>
   </component>

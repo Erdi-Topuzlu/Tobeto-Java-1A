@@ -8,11 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="oop" />
         <module name="oopWithNLayeredApp" />
-        <module name="cars" />
+        <module name="vehicles" />
         <module name="intro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cars" target="1.7" />
       <module name="cars.homework" target="1.7" />
     </bytecodeTargetLevel>
   </component>
