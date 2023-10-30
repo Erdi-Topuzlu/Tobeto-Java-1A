@@ -12,6 +12,10 @@
         <option value="$PROJECT_DIR$/vehicles/pom.xml" />
         <option value="$PROJECT_DIR$/armstrong/pom.xml" />
         <option value="$PROJECT_DIR$/fibonacci/pom.xml" />
+        <option value="$PROJECT_DIR$/character.counts/pom.xml" />
+        <option value="$PROJECT_DIR$/Workshop/fibonacci/pom.xml" />
+        <option value="$PROJECT_DIR$/Workshop/character.counts/pom.xml" />
+        <option value="$PROJECT_DIR$/Workshop/armstrong/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -21,7 +25,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
