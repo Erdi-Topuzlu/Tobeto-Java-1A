@@ -9,6 +9,7 @@
         <module name="oop" />
         <module name="oopWithNLayeredApp" />
         <module name="vehicles" />
+        <module name="armstrong" />
         <module name="intro" />
       </profile>
     </annotationProcessing>
