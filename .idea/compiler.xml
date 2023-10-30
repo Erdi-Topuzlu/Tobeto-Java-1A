@@ -15,6 +15,7 @@
         <module name="oopWithNLayeredApp" />
         <module name="vehicles" />
         <module name="amicable.pairs" />
+        <module name="perfect.number" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
