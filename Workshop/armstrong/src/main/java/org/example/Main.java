@@ -28,7 +28,9 @@ public class Main {
 
         if (sum == orgNumber) {
             System.out.println(orgNumber + " bir Armstrong sayısıdır.");
+
         } else {
+
             System.out.println(orgNumber + " bir Armstrong sayısı değildir.");
         }
     }
