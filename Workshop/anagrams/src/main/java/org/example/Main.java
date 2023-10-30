@@ -21,6 +21,7 @@ public class Main {
             System.out.println(word1 + " ve " + word2 + " anagramdır.");
         } else {
             System.out.println(word1 + " ve " + word2 + " anagram değildir.");
+
         }
     }
 
