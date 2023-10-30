@@ -10,6 +10,7 @@
         <module name="fibonacci" />
         <module name="armstrong" />
         <module name="character.counts" />
+        <module name="unique.character" />
         <module name="intro" />
         <module name="oopWithNLayeredApp" />
         <module name="vehicles" />
