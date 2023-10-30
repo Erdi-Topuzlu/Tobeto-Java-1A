@@ -13,9 +13,11 @@
         <module name="intro" />
         <module name="oopWithNLayeredApp" />
         <module name="vehicles" />
+        <module name="amicable.pairs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="anagrams" target="17" />
       <module name="cars" target="1.7" />
       <module name="cars.homework" target="1.7" />
     </bytecodeTargetLevel>

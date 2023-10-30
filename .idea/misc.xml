@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/Workshop/fibonacci/pom.xml" />
         <option value="$PROJECT_DIR$/Workshop/character.counts/pom.xml" />
         <option value="$PROJECT_DIR$/Workshop/armstrong/pom.xml" />
+        <option value="$PROJECT_DIR$/anagrams/pom.xml" />
+        <option value="$PROJECT_DIR$/amicable.pairs/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
