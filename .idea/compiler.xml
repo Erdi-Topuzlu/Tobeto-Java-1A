@@ -15,13 +15,13 @@
         <module name="oopWithNLayeredApp" />
         <module name="vehicles" />
         <module name="amicable.pairs" />
-        <module name="perfect.number" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anagrams" target="17" />
       <module name="cars" target="1.7" />
       <module name="cars.homework" target="1.7" />
+      <module name="perfect.number" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
